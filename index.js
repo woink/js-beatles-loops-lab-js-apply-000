@@ -17,7 +17,7 @@ function johnLennonFacts(facts) {
   }
   return facts;
 }
-johnLennonFacts(facts);
+johnLennonFacts();
 
 // 3 iLoveTheBeatles
 function iLoveTheBeatles(i) {
